@@ -1,2 +1,2 @@
 # APJava
-Here are the projects I did in AP java. 
+These are the projects I did in AP java. 
