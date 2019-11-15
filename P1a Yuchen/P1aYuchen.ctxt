@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=P1aYuchen
+comment0.text=\ Using\ your\ first\ program\ as\ a\ model,\ write\ a\ similar\ program,\ \u201CMySecondApp.java\u201D,\ that\ prints\ your\ \u201Cfavorites\u201D.\ Your\ program\ should\ do\ the\ following\:\n\ncreate\ and\ initialize\ an\ int\ with\ your\ favorite\ integer,\ncreate\ and\ initialize\ a\ double\ with\ your\ favorite\ real\ number,\ncreate\ and\ initialize\ a\ boolean\ with\ your\ favorite\ boolean\ value,\ncreate\ and\ initialize\ a\ String\ with\ your\ favorite\ musical\ group.\n\ \n\nPrint\ each\ one\ of\ these\ on\ a\ separate\ line\ with\ identifying\ text.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
