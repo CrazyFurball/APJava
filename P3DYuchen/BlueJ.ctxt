@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BlueJ
+comment0.text=\n\ This\ is\ my\ BlueJ\ class.\n\ \n\ @author\ Yuchen\ Yang\n\ @version\ 10/24/18\n
+comment1.params=initName\ initIsDead\ x\ y
+comment1.target=BlueJ(java.lang.String,\ boolean,\ int,\ int)
+comment2.params=
+comment2.target=BlueJ()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ search()
+numComments=6
