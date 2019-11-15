@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Airplane
+comment0.text=\n\ Write\ a\ description\ of\ class\ Airplane\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n\ \n
+comment1.params=
+comment1.target=Airplane()
+comment2.params=initAltitude\ initSpeed\ initIsNonStop\ initName
+comment2.target=Airplane(int,\ double,\ boolean,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
