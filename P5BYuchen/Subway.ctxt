@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Subway
+comment1.params=iLine
+comment1.target=Subway(int)
+comment2.params=distance
+comment2.target=double\ getTime(double)
+comment3.params=distance
+comment3.target=double\ getCost(double)
+numComments=4

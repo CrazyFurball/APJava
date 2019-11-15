@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=iBrand\ iPrice
+comment1.target=Vehicle(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Vehicle\n
+comment2.params=
+comment2.target=double\ getTime()
+comment3.params=
+comment3.target=double\ getCost()
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment5.params=
+comment5.target=java.lang.String\ getPrice()
+numComments=6
