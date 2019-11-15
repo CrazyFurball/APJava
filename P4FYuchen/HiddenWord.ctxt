@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HiddenWord
+comment0.text=\n\ A\ hidden\ word\ is\ a\ word\ that\ the\ user\ will\ use\ gueses\ to\ find\ out\ what\ it\ is.\n
+comment1.params=initialWord
+comment1.target=HiddenWord(java.lang.String)
+comment1.text=\n\ Constructuor\ that\ is\ used\ for\ initializing\ the\ variables\ in\ class\ HiddenWord.\n
+comment2.params=guess
+comment2.target=java.lang.String\ getHint(java.lang.String)
+comment2.text=\n\ Method\ that\ takes\ user\ input\ (guess)\ and\ returns\ a\ String\ that\ compares\ to\ \n\ the\ HiddenWord\ and\ guess.\n\ @param\ String\ guess\n\ @return\ String\ hint\ string\ with\ character\ where\ the\ character\ exists,\n\ a+where\ the\ character\ is\ in\ the\ word,\ and\ a\ *\ if\ the\ character\ is\ \n\ not\ in\ the\ word.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Method\ that\ prints\ the\ HiddenWrod\ instance\ variable\ \n\ @return\ the\ word.\ \n
+numComments=4
